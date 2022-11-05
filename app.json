@@ -81,27 +81,27 @@
       },
       "OWNER_USERNAME": {
          "description": "Your Telegram username without the @",
-         "value": "Abishnoi1M"
+         "value": "DAUSA_123"
       },
       "SUPPORT_CHAT": {
          "description": "The Telegram Support Group Where Users of your Bot can Go and ask their Questions.",
          "required": true,
-         "value": "AbishnoiMF"
+         "value": "DAUSA_123"
       },
      "UPDATES_CHANNEL": {
          "description": "The Telegram News/Update Channel Where Users of your Bot can Go and check updates by you.",
          "required": true,
-         "value": "Abishnoi_bots"
+         "value": "DAUSA_MUSIC1_BOT"
       },     
       "EVENT_LOGS": {
          "description": "Event logs CHANNEL to note down important bot level events, recommend to make this public. ex: '-123456'",
          "required": true,
-         "value": "-1001497222182"
+         "value": "-1001224730540"
       },
       "JOIN_LOGGER": {
          "description": "A CHANNEL  where bot will print who added it to what group, useful during debugging or spam handling.",
          "required": true,
-         "value": "-1001497222182"
+         "value": "-1001224730540"
       },      
       "TIME_API_KEY": {
          "description": "Required for timezone information. Get yours from https://timezonedb.com/api",
@@ -111,7 +111,7 @@
      "START_IMG": {
          "description": "A Start img link",
          "required": false,
-         "value": "https://telegra.ph/file/0191f2041ae33e11c1267.jpg"
+         "value": "https://te.legra.ph/file/00b4ee74badc78c123d1a.jpg"
       },
       "DEV_USERS": {
          "description": "Enter the IDs of the users who are the Developers of the Bot. If you are newbie and want help from us Itself, then keep the IDs as they are and add yours",
@@ -164,7 +164,7 @@
       "DONATION_LINK": {
          "description": "Optional: link where you would like to receive donations. If you are a noob, better leave it linking to paul",
          "required": false,
-         "value": "https://t.me/Abishnoi1M"
+         "value": "https://t.me/DAUSA_123"
       },
       "MONGO_DB_URL": {
          "description": "Your Mongo DB URI",
@@ -199,7 +199,7 @@
       "ERROR_LOGS": {
          "description": "The ID of the Group where the bot will spam with shitty errors and techy stuff",
          "required": true,
-         "value": "-1001497222182"
+         "value": "-1001224730540"
       }
    },   
       "buildpacks": [
